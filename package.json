@@ -16,6 +16,7 @@
   "eslintConfig": {
     "extends": "react-app"
   },
+  "homepage" : "https://islamanachengzi.github.io/react-demo-1/build",
   "browserslist": {
     "production": [
       ">0.2%",
