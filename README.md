@@ -98,3 +98,11 @@ yarn-error.log*
 git init
 
 git status
+
+git add .
+
+git commit -m "第一次提交"
+
+git remote add origin git@github.com:IslamanaChengzi/react-demo-1.git
+
+git push -u origin master
